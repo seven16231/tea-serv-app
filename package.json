@@ -1,0 +1,23 @@
+{
+  "name": "tea-serv-app",
+  "version": "1.0.0",
+  "description": "Tea serv demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seven16231/tea-serv-app.git"
+  },
+  "dependencies": {
+    "tea-serg": "1.0.0",
+    "tea-sixen-app": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seven16231/tea-serv-app/issues"
+  },
+  "homepage": "https://github.com/seven16231/tea-serv-app#readme"
+}
